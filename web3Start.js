@@ -7,7 +7,7 @@
       "description": "",
       "photo": "url('aradicaldecentralization.png')",
       "url": "https://ipfs.io/ipfs/QmaMzwPXUGviEYk3uu2CqPBGnUmBgXFxRP8kJXFbbjSnCq",
-      "body": "There's only two of us and we didn't find a front end dev, so Forever Wall is FEW.  Access and save data with hashtags into the blockchain in the most decentralized way possible" //few kiss
+      "body": "There's only two of us and we didn't find a front end dev, so Forever Wall is FEW.  Access and save data with hashtags into the blockchain in the most decentralized way possible" 
     },
     {
       "name": "WEB3 is currently building WEB2.5",
