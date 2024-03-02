@@ -3,7 +3,7 @@
   "heading": "Intro",
   "slides": [
     {
-      "name": "Decentralization X Simplicity",
+      "name": "Decentralization X Simplicity", // kiss FEW forever wall
       "description": "",
       "photo": "url('world.png?asd')",
       "url": "https://ipfs.io/ipfs/QmaMzwPXUGviEYk3uu2CqPBGnUmBgXFxRP8kJXFbbjSnCq",
