@@ -30,10 +30,5 @@
       "description":"- On chain versioning, Apply bug fixes simply, Improve production speed",
       "photo":"url('benefits.png')",
     }
-    {
-      "name":"A FEW KISSes",
-      "description":"Keep It Super Simple.  The world could use a FEW more KISSes",
-      "photo":"url('fewkiss.png')",
-    }
   ]
 }
