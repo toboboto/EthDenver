@@ -26,7 +26,7 @@
       "photo":"url('worldchain.png')",
     },
     {
-      "name":"Decentralization = Friend with Benefits", 
+      "name":"FWB - Forever Wall Benefits", 
       "description":"- On chain versioning, Apply bug fixes simply, Improve production speed, censorship proof",
       "photo":"url('benefits.png')",
     }
