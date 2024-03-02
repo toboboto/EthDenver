@@ -7,7 +7,7 @@
       "description": "",
       "photo": "url('fewwall.png')",
       "url": "https://ipfs.io/ipfs/QmaMzwPXUGviEYk3uu2CqPBGnUmBgXFxRP8kJXFbbjSnCq",
-      "body": "There's only two of us and we didn't find a front end dev. Keeping with the concept of Keep It Super Simple (KISS), Forever Wall was named FEW." 
+      "body": "Keeping with the concept of Keep It Super Simple (KISS), Forever Wall was named FEW." 
     },
     {
       "name": "'WEB3' is currently building 'WEB2.5'",
@@ -22,12 +22,12 @@
     },
     {
       "name":"True WEB3",
-      "description":"Digital transformation from 2.5 to 3.0 to manifest true WEB3,  we access and save data with hashtags into the blockchain in the most decentralized way possible to decentralize everything. Serverless architecture for front end that is decentralized.  Also, on chain low level index eliminates external search tables.",
+      "description":"To manifest true WEB3,  we access and save data with hashtags into the blockchain in the most decentralized way possible to decentralize everything. Serverless architecture for front end that is decentralized.  Also, on chain low level index eliminates external search tables.",
       "photo":"url('worldchain.png')",
     },
     {
-      "name":"Friend with Benefits", 
-      "description":"- On chain versioning, Apply bug fixes simply, Improve production speed",
+      "name":"Decentralization = Friend with Benefits", 
+      "description":"- On chain versioning, Apply bug fixes simply, Improve production speed, censorship proof",
       "photo":"url('benefits.png')",
     }
   ]
