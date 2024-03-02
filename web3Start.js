@@ -3,11 +3,11 @@
   "heading": "Intro",
   "slides": [
     {
-      "name": "Decentralization X Simplicity", // kiss FEW forever wall
+      "name": "Simply Radical Decentralization"//"Decentralization X Simplicity", // kiss FEW forever wall
       "description": "",
       "photo": "url('world.png?asd')",
       "url": "https://ipfs.io/ipfs/QmaMzwPXUGviEYk3uu2CqPBGnUmBgXFxRP8kJXFbbjSnCq",
-      "button": "Why do we need this?"
+      "button": "Access and save data with hashtags into the blockchain in teh most decentralized way possible" //few kiss
     },
     {
       "name": "It's as easy as 1,2,3.",
